@@ -16,6 +16,6 @@ function checkAnswer() {
     answerResponse2.style = "color: green;";
   } else {
     answerResponse2.innerHTML = "salah";
-    answerResponse2.style = "color: green;";
+    answerResponse2.style = "color: red;";
   }
 }
